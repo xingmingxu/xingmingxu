@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Xingming Xu!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=AI+%26+NLP+Researcher;Data+Science+Developer;ML+Systems+Engineer)](https://git.io/typing-svg)
+I'm passionate about AI with a focus on natural language processing and machine learning systems. Currently exploring cutting-edge deep learning architectures and their production implementation.
 
-I'm passionate about AI with a focus on natural language processing and machine learning systems. Currently exploring cutting-edge deep learning architectures and their production implementations, and I'm open to chat on Linkedin or grab a coffee!
+I'm always open to connect on Linkedn, or grab a coffee!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xingming-xu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xmxu@ucdavis.edu)
@@ -32,6 +32,6 @@ I'm passionate about AI with a focus on natural language processing and machine 
 - Investigating improvements to transformer-based architectures for NLP tasks
 
 ## 📊 GitHub Stats
-![Xingming's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingming-xu&show_icons=true&theme=radical&hide=contribs)
+![Xingming's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingmingxu&show_icons=true&theme=radical&hide=contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xingming-xu&layout=compact&theme=radical&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xingmingxu&layout=compact&theme=radical&hide=html,css)
