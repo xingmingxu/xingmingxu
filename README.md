@@ -30,8 +30,3 @@ I'm always open to connect on Linkedn, or grab a coffee!
 
 ## 🔭 Currently Working On
 - Investigating improvements to transformer-based architectures for NLP tasks
-
-## 📊 GitHub Stats
-![Xingming's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingmingxu&show_icons=true&theme=radical&hide=contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xingmingxu&layout=compact&theme=radical&hide=html,css)
