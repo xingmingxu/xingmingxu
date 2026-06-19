@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Xingming Xu!
 
-I'm passionate about AI with a focus on natural language processing and machine learning systems. Currently exploring cutting-edge deep learning architectures and their production implementation.
+I'm passionate about AI with a focus on natural language processing. Currently acquainting myself with **world models**. 
 
-I'm always open to connect on Linkedn, or grab a coffee!
+I'm always open to connect on LinkedIn, or grab a coffee!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xingming-xu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xmxu@ucdavis.edu)
